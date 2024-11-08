@@ -35,11 +35,11 @@ public class Categoria {
         this.descricao = descricao;
     }
 
-    public String getTipoCategoria() {
+    public TipoCategoria getTipoCategoria() {
         return tipoCategoria;
     }
 
-    public void setTipoCategoria(String tipoCategoria) {
+    public void setTipoCategoria(TipoCategoria tipoCategoria) {
         this.tipoCategoria = tipoCategoria;
     }
 }
